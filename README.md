@@ -45,4 +45,4 @@ I implemented the **Prophet** algorithm to predict Q1 revenue.
 2.  **View the Dashboard:** The `dashboard_overview.png` showcases the final Power BI implementation.
 
 ---
-*Author: [Your Name] | Specialized in Finance Transformation & Analytics*
+*Author: Sendhil Kumar | Specialized in Finance Transformation & Analytics*
